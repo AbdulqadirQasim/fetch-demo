@@ -13,3 +13,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# just a stupido human over here...
