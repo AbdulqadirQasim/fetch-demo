@@ -7,11 +7,11 @@
 
 # THANKS
 
-    <name>
+    abdulqadiar qasim
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, angularjs
 
 # just a stupido human over here...
